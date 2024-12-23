@@ -31,11 +31,11 @@ echo "Get to know me";
 echo "<br>";
 echo "<a href='https://mailchi.mp/8c1c7dedc1fe/levi-meir-clancy'>Mailing list</a>";
 echo " &nbsp;&nbsp; — &nbsp;&nbsp;";
-echo "About: <a href='https://levi.news'>levi.news</a>";
+echo "About = <a href='https://levi.news'>levi.news</a>";
 echo " &nbsp;&nbsp; — &nbsp;&nbsp;";
-echo "Photography: <a href='https://levi.pictures'>levi.pictures</a>";
+echo "Photography = <a href='https://levi.pictures'>levi.pictures</a>";
 echo " &nbsp;&nbsp; — &nbsp;&nbsp;";
-echo "<a href='mailto:info@levi.news'>info@levi.news</a>";
+echo "Email = <a href='mailto:info@levi.news'>info@levi.news</a>";
 
 echo "<br><br>";
 
