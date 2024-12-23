@@ -29,11 +29,11 @@ echo "<br><br>";
 
 echo "Get to know me";
 echo "<br>";
-echo "<a href='https://mailchi.mp/8c1c7dedc1fe/levi-meir-clancy'>Mailing list</a>";
-echo " &nbsp;&nbsp; — &nbsp;&nbsp;";
 echo "About = <a href='https://levi.news'>levi.news</a>";
 echo " &nbsp;&nbsp; — &nbsp;&nbsp;";
 echo "Photography = <a href='https://levi.pictures'>levi.pictures</a>";
+echo " &nbsp;&nbsp; — &nbsp;&nbsp;";
+echo "Education = <a href='https://conversationpieces.rsvp'>conversationpieces.rsvp</a>";
 echo " &nbsp;&nbsp; — &nbsp;&nbsp;";
 echo "Email = <a href='mailto:info@levi.news'>info@levi.news</a>";
 
