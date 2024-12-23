@@ -37,7 +37,7 @@ echo "<br><br>";
 
 echo "Contact";
 echo "<br>";
-echo "— <a href='mailto:info@levi.news'>info@levi.news</a>";
+echo "<a href='mailto:info@levi.news'>info@levi.news</a>";
 
 echo "<br><br>";
 
