@@ -4,6 +4,7 @@ echo "<br><br>";
 echo "<br><br>";
 
 echo "לוי מאיר קלנסי";
+echo "<br>";
 echo "Levi Meir Clancy";
 
 echo "<br><br>";
@@ -12,10 +13,6 @@ echo "I am on a mission to create memorable images of humankind.";
 
 echo "<br><br>";
 
-echo "<br><br>";
-
-echo "Portfolio albums";
-echo "<br>";
 echo "— <a href='https://adobe.ly/3G3u7Rf'>Personality portraits</a>";
 echo "<br>";
 echo "— <a href='https://adobe.ly/3xyGMsd'>Love and family</a>";
