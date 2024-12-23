@@ -1,6 +1,10 @@
 <?
 
 echo "<br><br>";
+echo "<br><br>";
+
+echo "לוי מאיר קלנסי";
+echo "Levi Meir Clancy";
 
 echo "<br><br>";
 
