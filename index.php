@@ -30,11 +30,11 @@ echo "<br><br>";
 echo "Get to know me";
 echo "<br>";
 echo "About = <a href='https://levi.news'>levi.news</a>";
-echo " &nbsp;&nbsp; — &nbsp;&nbsp;";
+echo "<br>";
 echo "Photography = <a href='https://levi.pictures'>levi.pictures</a>";
-echo " &nbsp;&nbsp; — &nbsp;&nbsp;";
+echo "<br>";
 echo "Education = <a href='https://conversationpieces.rsvp'>conversationpieces.rsvp</a>";
-echo " &nbsp;&nbsp; — &nbsp;&nbsp;";
+echo "<br>";
 echo "Email = <a href='mailto:info@levi.news'>info@levi.news</a>";
 
 echo "<br><br>";
