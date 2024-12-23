@@ -29,13 +29,13 @@ echo "<br><br>";
 
 echo "Get to know me";
 echo "<br>";
-echo "About = <a href='https://levi.news'>levi.news</a>";
+echo "About &rarr; <a href='https://levi.news'>levi.news</a>";
 echo "<br>";
-echo "Photography = <a href='https://levi.pictures'>levi.pictures</a>";
+echo "Photography &rarr; <a href='https://levi.pictures'>levi.pictures</a>";
 echo "<br>";
-echo "Education = <a href='https://conversationpieces.rsvp'>conversationpieces.rsvp</a>";
+echo "Education &rarr; <a href='https://conversationpieces.rsvp'>conversationpieces.rsvp</a>";
 echo "<br>";
-echo "Email = <a href='mailto:info@levi.news'>info@levi.news</a>";
+echo "Email &rarr; <a href='mailto:info@levi.news'>info@levi.news</a>";
 
 echo "<br><br>";
 
