@@ -27,7 +27,9 @@ echo "— <a href='https://unsplash.com/@levimeirclancy'>Unsplash</a>";
 echo "<br><br>";
 
 echo "Additional links";
+echo "<br>";
 echo "— <a href='https://mailchi.mp/8c1c7dedc1fe/levi-meir-clancy'>mailing list</a>";
+echo "<br>";
 echo "— <a href='https://levi.news'>levi.news</a>";
 
 echo "<br><br>";
