@@ -16,7 +16,7 @@ echo "<a href='https://adobe.ly/3xyGMsd'>love and family</a>";
 
 echo "<br><br>";
 
-echo "<a href='https://stock.adobe.com/contributor/209506797/levi-meir-clancy/'>Adobe Stock</a>
+echo "<a href='https://stock.adobe.com/contributor/209506797/levi-meir-clancy/'>Adobe Stock</a>";
 
 echo "<br><br>";
 
