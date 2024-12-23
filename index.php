@@ -27,16 +27,14 @@ echo "— <a href='https://unsplash.com/@levimeirclancy'>Unsplash</a>";
 
 echo "<br><br>";
 
-echo "Additional links";
+echo "Get to know me";
 echo "<br>";
-echo "— <a href='https://mailchi.mp/8c1c7dedc1fe/levi-meir-clancy'>Mailing list</a>";
-echo "<br>";
-echo "— <a href='https://levi.news'>levi.news</a>";
-
-echo "<br><br>";
-
-echo "Contact";
-echo "<br>";
+echo "<a href='https://mailchi.mp/8c1c7dedc1fe/levi-meir-clancy'>Mailing list</a>";
+echo " &nbsp;&nbsp; — &nbsp;&nbsp;";
+echo "Bio + CV: <a href='https://levi.news'>levi.news</a>";
+echo " &nbsp;&nbsp; — &nbsp;&nbsp;";
+echo "Photography: <a href='https://levi.pictures'>levi.pictures</a>";
+echo " &nbsp;&nbsp; — &nbsp;&nbsp;";
 echo "<a href='mailto:info@levi.news'>info@levi.news</a>";
 
 echo "<br><br>";
