@@ -13,6 +13,7 @@ echo "— <a href='https://adobe.ly/3xyGMsd'>love and family</a>";
 echo "<br><br>";
 
 echo "other albums";
+echo "<br>";
 echo "— <a href='https://stock.adobe.com/contributor/209506797/levi-meir-clancy/'>Adobe Stock</a>";
 echo "<br>";
 echo "— <a href='https://unsplash.com/@levimeirclancy'>Unsplash</a>";
